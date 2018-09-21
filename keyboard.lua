@@ -7,6 +7,7 @@ function kb_init()
 	end
 end
 -- This is a comment
+-- Another comment!
 function ord(c) 
 	return keymap_ord[c]
 end
