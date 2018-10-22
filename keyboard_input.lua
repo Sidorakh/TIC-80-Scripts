@@ -1,4 +1,5 @@
- -- Basic keyboard input script for TIC-80. Works with `keyboard.lua`
+ -- Basic keyboard input script for TIC-80. Requires `keyboard.lua`
+ dofile('keyoard.lua')
 function kb_input_init()
  _kb_input=""
 end
